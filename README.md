@@ -16,7 +16,7 @@ Linux için:
 
 ```linux
 cd kodluyoruzilkrepo
-code.
+code .
 ```
 
 ## Contributing
